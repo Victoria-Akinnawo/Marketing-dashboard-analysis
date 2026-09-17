@@ -50,7 +50,7 @@ The project includes analysis of:
 ## Dashboard
 
 The interactive Excel dashboard provides a visual summary of marketing campaign performance using KPI cards, charts, and filters.
-
+![Marketing Campaign Dashboard](Marketing-dashboard.png)
 ## Data Preparation
 
 The dataset was reviewed and prepared before analysis. Data preparation included checking the dataset structure, handling data-quality issues, creating calculated metrics, and preparing the data for Pivot Table analysis.
